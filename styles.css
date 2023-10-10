@@ -1,0 +1,43 @@
+body {
+    background-color: black;
+}
+p{
+    color: rgb(41, 167, 154);
+    font-family: Comic Sans MS;
+}
+#desc{
+    color: white;
+}
+h1{
+    color: white;
+    font-family: Comic Sans MS;
+}
+a{
+    color: white;
+    font-family: Comic Sans MS;
+}
+b{
+    color: white;
+    font-family: Comic Sans MS;
+}
+#a {
+    cursor: progress;
+}
+#b {
+    cursor: pointer;
+}
+#c {
+    cursor: crosshair;
+}
+#d {
+    cursor: move;
+}
+#e{
+    cursor:not-allowed
+}
+#f {
+    cursor:default;
+}
+#g {
+    cursor: help;
+}
